@@ -1,4 +1,4 @@
-# BMW Electric Cars Dashboard
+# Electric Cars Dashboard
 
 A modern and responsive dashboard built using **React**, **AG Grid**, and **Material-UI** to display and manage electric car data with sorting, filtering, pagination, and detailed car views.
 
@@ -18,7 +18,7 @@ A modern and responsive dashboard built using **React**, **AG Grid**, and **Mate
 ## Project Structure
 
 ```
-BMW-Electric-Cars-Dashboard
+Electric-Cars-Dashboard
 ├── public/
 ├── src/
 │   ├── components/
@@ -52,8 +52,8 @@ BMW-Electric-Cars-Dashboard
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/BMW-Electric-Cars-Dashboard.git
-   cd BMW-Electric-Cars-Dashboard
+   git clone https://github.com/your-username/Electric-Cars-Dashboard.git
+   cd Electric-Cars-Dashboard
    ```
 
 2. **Install dependencies:**
